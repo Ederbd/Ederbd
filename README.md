@@ -13,17 +13,17 @@ I studied computer science :computer::pencil:, and I have more than 5 years of e
 ## Skills 	:bar_chart:
 
 - :pencil: Programming languages:
-1. c
-2. c++
-3. python
+1. C
+2. C++
+3. Python
 4. Bash
-5. java Script
+5. Java Script
 6. Go
 7. PHP 
 
 - :computer: Operating Systems
-1. linux
-2. windows 
+1. Linux
+2. Windows 
 
 -	:books: Knowledge in: 
 1. Networks
