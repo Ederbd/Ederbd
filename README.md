@@ -8,7 +8,7 @@ I studied computer science :computer::pencil:, and I have more than 5 years of e
 :white_check_mark:Programming.
 :white_check_mark:Technical Support.
 
-I am currently specializing in the area of cybersecurity, as a pentester 	:bomb:	:syringe:.
+:red_circle: I am currently specializing in the area of cybersecurity, as a pentester 	:bomb:	:syringe:
 
 ## Skills 	:bar_chart:
 
