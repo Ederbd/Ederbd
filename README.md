@@ -1,18 +1,18 @@
 ## Hello :wave:
 
 My name is Eder Ballastra, I am from Mexico.
-I studied computer science, and I have more than 5 years of experience in the computer area. I have been working as:
+I studied computer science :computer::pencil:, and I have more than 5 years of experience in the computer area:books:. I have been working as:
 
-Server administrator(SysAdmin).
-Web Development.
-Programming.
-Technical Support.
+:white_check_mark:Server administrator(SysAdmin).
+:white_check_mark:Web Development.
+:white_check_mark:Programming.
+:white_check_mark:Technical Support.
 
-I am currently specializing in the area of cybersecurity, as a pentester.
+I am currently specializing in the area of cybersecurity, as a pentester 	:bomb:	:syringe:.
 
-## Skills
+## Skills 	:bar_chart:
 
-- Programming languages:
+- :pencil: Programming languages:
 1. c
 2. c++
 3. python
@@ -21,22 +21,15 @@ I am currently specializing in the area of cybersecurity, as a pentester.
 6. Go
 7. PHP 
 
-- Operating Systems
+- :computer: Operating Systems
 1. linux
 2. windows 
 
-- Knowledge in: 
+-	:books: Knowledge in: 
 1. Networks
 2. Technical Support
 3. Web Development
 4. AWS
 
 
-## WebSite
 
-
-
-
-# Ederbd
-# Ederbd
-# Ederbd
