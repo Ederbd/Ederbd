@@ -1,7 +1,7 @@
 ## Hello :wave:
 
-My name is Eder Ballastra, I am from Mexico.
-I studied computer science :computer::pencil:, and I have more than 5 years of experience in the computer area:books:. I have been working as:
+My name is Eder Ballastra, I'm from Mexico.
+I studied computer science :computer::pencil:, and I have more than 5 years of experience in the computer area:books:. I had been working as:
 
 :white_check_mark:Server administrator(SysAdmin).
 :white_check_mark:Web Development.
@@ -25,8 +25,8 @@ I studied computer science :computer::pencil:, and I have more than 5 years of e
 1. Linux
 2. Windows 
 
--	:books: Knowledge in: 
-1. Networks
+-	:books: Habilities in: 
+1. Network
 2. Technical Support
 3. Web Development
 4. AWS
