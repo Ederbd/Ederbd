@@ -31,5 +31,5 @@ I studied computer science :computer::pencil:, and I have more than 5 years of e
 3. Web Development
 4. AWS
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)
 
