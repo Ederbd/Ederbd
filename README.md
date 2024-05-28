@@ -10,7 +10,7 @@ I studied computer science :computer::pencil:, and I have more than 5 years of e
 
 :red_circle: I am currently specializing in the area of cybersecurity, as a pentester 	:bomb:	:syringe:
 
-## Skills ![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,docker,go,py,php&perline=3)
+## Skills ![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,go,py,php&theme=light)
 
 - :pencil: Programming languages:
 1. C
@@ -31,5 +31,5 @@ I studied computer science :computer::pencil:, and I have more than 5 years of e
 3. Web Development
 4. AWS aws 
 
-![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)
+![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,github,vim&perline=3)
 
