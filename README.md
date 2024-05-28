@@ -10,7 +10,7 @@ I studied computer science :computer::pencil:, and I have more than 5 years of e
 
 :red_circle: I am currently specializing in the area of cybersecurity, as a pentester 	:bomb:	:syringe:
 
-## Skills :bar_chart:
+## Skills ![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,docker,go,py,figma&theme=light)
 
 - :pencil: Programming languages:
 1. C
